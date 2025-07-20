@@ -1,2 +1,11 @@
-# Flappy_Bird_Game
-A custom Flappy Bird clone built using Python and Pygame, featuring a Ghost Mode power-up for temporary invincibility. The game includes animations, sounds, real-time scoring, and a clean design structure. It’s a simple project but adds a cool twist to the original game.
+# 🐤 Flappy Bird Clone with Ghost Mode
+
+This is a customized version of the classic **Flappy Bird** game built using **Python** and **Pygame**. In addition to the gameplay, this version introduces a unique **Ghost Mode** feature that gives players temporary invincibility.
+
+## 🚀 Features
+
+- 🎮 Classic Flappy Bird mechanics
+- 👻 **Ghost Mode**: Press `G` during the game to activate invincibility for 3 seconds (5-second cooldown)
+- 🎵 Integrated sound effects
+- 🎨 Custom sprites and smooth animations
+- 🧠 Clean code and modular design
